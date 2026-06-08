@@ -1,0 +1,8 @@
+REST API Business Operations KPI Report
+---------------------------------------
+Total Users Retrieved: 10
+Unique Companies: 10
+Unique Cities: 10
+
+API Source:
+https://jsonplaceholder.typicode.com/users
